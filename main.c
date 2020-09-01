@@ -12,7 +12,7 @@ int main(void) {
   char * temps = readline("Enter temperature in celsius: ");
   double temp = atof(temps);
   double tempf = temp * 1.8 + 32; 
-  printf( "%f° in Celsius is equivalent to %f° Fahrenheit." , temp, tempf);
+  printf( "%f° in Celsius is equivalent to %f° Fahrenheit.\n" , temp, tempf);
   return 0;
 }
 
