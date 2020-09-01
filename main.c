@@ -4,7 +4,6 @@
 //Collborator: Daniel Chai dac5934@psu.edu
 
 
-
 #include <stdio.h>
 #include <readline/readline.h>
 #include <stdlib.h>
@@ -17,3 +16,4 @@ int main(void) {
   printf( "%f° in Celsius is equivalent to %f° Fahrenheit." , temp, tempf);
   return 0;
 }
+
