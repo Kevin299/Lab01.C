@@ -10,7 +10,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  char * temps = readline("Enter temperature in Celsius: ");
+  char * temps = readline("Enter temperature in celsius: ");
   double temp, tempf;
   temp = atof(temps);
   tempf = temp * 1.8 + 32; 
