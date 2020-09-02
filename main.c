@@ -1,7 +1,7 @@
-//Author: Kevin Chen khc5132@psu.edu
-//Collborator: Nicholas Colinear nfc5261@psu.edu
-//Collborator: Kristina Balta kqb5799@psu.edu
-//Collborator: Daniel Chai dac5934@psu.edu
+// Author: Kevin Chen khc5132@psu.edu
+// Collborator: Nicholas Colinear nfc5261@psu.edu
+// Collborator: Kristina Balta kqb5799@psu.edu
+// Collborator: Daniel Chai dac5934@psu.edu
 
 
 #include <stdio.h>
